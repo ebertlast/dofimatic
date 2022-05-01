@@ -9,7 +9,7 @@
     "lint": "eslint --ext .js,.vue ./",
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
     "test": "echo \"No test specified\" && exit 0",
-    "deploy": "quasar build"
+    "deploy": "quasar build && IF exist docs rmdir /q /s docs\\ && IF exist dist\\spa move dist\\spa docs"
   },
   "dependencies": {
     "axios": "^0.21.1",
