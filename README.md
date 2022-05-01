@@ -1,42 +1,45 @@
-# Dofimatic (dofimatic)
+# Sistema de gestión documental y administrativo (dofimatic)
 
-Sistema de gestión documental y administrativo
+Sistema modular para la gestión de los procesos documentales y administrativos de una pequeña y mediana empresa
 
-## Install the dependencies
+## ¿Cómo instalar las dependencias?
+
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciar la aplicación en modo desarrollo (hot-code reloading, error reporting, etc.)
+
 ```bash
 quasar dev
 ```
 
-
 ### Lint the files
+
 ```bash
 yarn lint
 # or
-npm run lint
+npm run
 ```
 
+### Dar formato a los documentos
 
-### Format the files
 ```bash
 yarn format
 # or
 npm run format
 ```
 
+### Construir la aplicación para producción
 
-
-### Build the app for production
 ```bash
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
-"# dofimatic" 
+### Personaliza la configuración
+
+Mirar [Configurando quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+#
