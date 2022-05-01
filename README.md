@@ -1,4 +1,4 @@
-# Sistema de gestión documental y administrativo (dofimatic v1.0)
+# Sistema de gestión documental y administrativo (dofimatic)
 
 Sistema modular para la gestión de los procesos documentales y administrativos de una pequeña y mediana empresa
 
